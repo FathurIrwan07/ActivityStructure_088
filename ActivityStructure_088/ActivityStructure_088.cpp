@@ -28,11 +28,11 @@ int main() {
 	cout << "NIM : " << mhs.nim;
 	cout << "\nUmur : " << mhs.umur;
 	cout << "\nNama : " << mhs.nama;
-	cout << "\Alamat : " << mhs.alamat;
+	cout << "\nAlamat : " << mhs.alamat;
 
-	cout << "NIM : " << mhs2.nim;
-	cout << "\nUmur : " << mhs2.umur;
-	cout << "\nNama : " << mhs2.nama;
-	cout << "\Alamat : " << mhs2.alamat;
+	cout << "\n\nNIM : " << mhs2.nim;
+	cout << "\n\nUmur : " << mhs2.umur;
+	cout << "\n\nNama : " << mhs2.nama;
+	cout << "\n\nAlamat : " << mhs2.alamat;
 	
 }
