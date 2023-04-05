@@ -19,6 +19,7 @@ int main() {
 	cout << "Masukan NIM : ";
 	cin.getline(mhs.nim, 12);
 	cout << "Masukan Umur : ";
+	cin >> mhs.umur;
 	cin.ignore(1, '\n');
 	cout << "Masukan Nama : ";
 	cin.getline(mhs.nama, 20);
